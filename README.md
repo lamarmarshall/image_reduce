@@ -1,3 +1,6 @@
+# image_reduce
+script that reduces image file size by reducing quality and size (1600 x 830)
+
 ## get_size_in_mb(file)
 
 returns the size of a file in megabytes
